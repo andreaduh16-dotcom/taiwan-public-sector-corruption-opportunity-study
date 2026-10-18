@@ -1,0 +1,28 @@
+# 不公開的研究工作檔與稽核資料
+coding_evidence.csv
+excluded_cases_final*.csv
+candidate_cases*.csv
+unresolved*.md
+screening_audit_log.md
+phase1_5/
+phase1_75/
+phase2_coding/
+*.jsonl
+*_work_*
+*_verified_batch*
+
+# 憑證與機密
+.env
+.env.*
+*.key
+*.pem
+credentials*
+token*
+secrets*
+
+# 暫存
+__pycache__/
+*.pyc
+.cache/
+*.tmp
+.DS_Store
