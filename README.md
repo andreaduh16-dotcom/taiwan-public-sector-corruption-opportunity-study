@@ -4,7 +4,7 @@
 
 論文題目全名：基層公務體系人員職務接觸財物型貪瀆案件之犯罪機會與廉政法遵風險——以官方起訴統計與裁判內容分析為中心。本 repository 只含裁判內容分析的公開資料，不含官方起訴統計部分。
 
-License: Not yet specified.
+License: CC BY 4.0
 
 ## Overview
 
@@ -72,4 +72,4 @@ License: Not yet specified.
 
 目前沒有正式發表資訊，也沒有 DOI。建議暫以下列格式引用，作者欄請研究者自行改為正式署名：
 
-> andreaduh16-dotcom. (2026). *taiwan-public-sector-corruption-opportunity-study* (Version 1.0.0) [Data set]. GitHub. https://github.com/andreaduh16-dotcom/taiwan-public-sector-corruption-opportunity-study
+> 杜雅涵. (2026). *taiwan-public-sector-corruption-opportunity-study* (Version 1.0.0) [Data set]. GitHub. https://github.com/andreaduh16-dotcom/taiwan-public-sector-corruption-opportunity-study
